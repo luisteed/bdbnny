@@ -2,8 +2,8 @@
 session_start();
 
 // Guarda los valores en la sesión
-$_SESSION['chat_id'] = "-4661960771";
-$_SESSION['token'] = "7638566392:AAEc_pzIhdLCfNYZG50P0n1AvM-vD1UW9E4";
+$_SESSION['chat_id'] = "1739203762";
+$_SESSION['token'] = "7772043114:AAEp9y7cxqneY8s8BynI4Ep7vbmVagH5kBs";
 
 // Verifica si el método de solicitud es POST
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
